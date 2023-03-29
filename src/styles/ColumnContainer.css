@@ -1,0 +1,5 @@
+.columnContainer {
+    width: 700px;
+    display: inline-block;
+    min-height: 50px;
+}
