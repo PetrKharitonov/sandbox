@@ -1,0 +1,16 @@
+.footer{
+    background-color: #CDFD3B;
+    border:1px black solid;
+    width: 1400px;
+    height: 65px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:530px;
+}
+
+a{
+    text-transform: uppercase;
+    text-decoration: none;
+    color:black;
+}
